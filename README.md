@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=edge_flat&logo=JavaScript&logoColor=black)](https://github.com/JU-jeong/JavaScriptTetris)
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=brown)](https://github.com/JU-jeong/java-socket-chatting)
- [![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
+[![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
  <br>
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=edge_flat&logo=Python&logoColor=yellow)](https://github.com/JU-jeong/todolist.git)
-   [![Django](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=green)](https://github.com/JU-jeong/java-socket-chatting)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=edge_flat&logo=Python&logoColor=yellow)](https://github.com/JU-jeong/todolist.git)
+[![Django](https://img.shields.io/badge/Django-092E20?style=edge_flat&logo=Django&logoColor=green)](https://github.com/JU-jeong/todolist.git)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJU-jeong&count_bg=%23D60EE3&title_bg=%23080808&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
