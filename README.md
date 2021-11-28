@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=brown)](https://github.com/JU-jeong/java-socket-chatting)
  [![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
  <br>
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=edge_flat&logo=Python&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=edge_flat&logo=Python&logoColor=yellow)](https://github.com/JU-jeong/todolist.git)
    [![Django](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=green)](https://github.com/JU-jeong/java-socket-chatting)
 
 
