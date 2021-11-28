@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 <div align = center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=SUIT%20YOURSELVES!&fontSize=50)
-
+ 
+ <!-- [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크) -->
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=brown)](https://github.com/JU-jeong/java-socket-chatting)
  [![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
  <br>
-  [![Python](#3776AB)](https://github.com/JU-jeong/java-socket-chatting)
+  [![Python](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
    [![Django](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=green)](https://github.com/JU-jeong/java-socket-chatting)
 
 
