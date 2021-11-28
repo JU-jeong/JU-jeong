@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  <!-- [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크) -->
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/JU-jeong/JavaScriptTetris)
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=brown)](https://github.com/JU-jeong/java-socket-chatting)
  [![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
  <br>
