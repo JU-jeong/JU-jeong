@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=edge_flat&logo=JavaScript&logoColor=black)](https://github.com/JU-jeong/JavaScriptTetris)
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=brown)](https://github.com/JU-jeong/java-socket-chatting)
-[![JSP](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=yellow)](https://github.com/JU-jeong/java-socket-chatting)
  <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=edge_flat&logo=Python&logoColor=yellow)](https://github.com/JU-jeong/todolist.git)
 [![Django](https://img.shields.io/badge/Django-092E20?style=edge_flat&logo=Django&logoColor=green)](https://github.com/JU-jeong/todolist.git)
