@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Arrivederci!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=수험생활의 연장선!&fontSize=50)
  
  <!-- [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크) -->
 
